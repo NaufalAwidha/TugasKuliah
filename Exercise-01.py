@@ -1,0 +1,7 @@
+print("Nama           :Naufal Awidha Saputra")
+print("NIM            :I0322093")
+print("Tempat tinggal :Saya berasal dari Yogyakarta, alamat tepatnya di Mejing Wetan Ambarketawang Gamping.")
+print("                Tempat tinggal saya dipemukiman pedesaan.")
+print("                Di depan rumah saya adalah rumah tetangga saya, bagian belakang rumah saya sawah.")
+print("                Di samping kanan rumah saya terdapat lapangan voli, sedangkan samping kiri rumah saya merupakan rumah dinas PT KAI.")
+print("Harapan        :Harapan saya sebagai lulusan Teknik Industri menjadi direktur suatu perusahaan")
